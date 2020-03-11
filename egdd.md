@@ -18,8 +18,11 @@
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
+Scene 1 Mechanics (Overworld)
+- Move up/down/left/right on map
+- Random battle encounters depending on geographic location
+
+Scene 2 Mechanics (Battle Scene)
 - *Gameplay Mechanic #3*
 - *Gameplay Mechanic #4*
 
