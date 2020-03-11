@@ -7,15 +7,12 @@
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Plants vs. Zombies:
+  - Medium: Video Game
+  - Explanation: Our core battle mechanic is heavily influenced by the Plants vs. Zombies' tower defense style
+- Pokemon/Final Fantasy:
+  - Medium: Video Game
+  - Explanation: Our overworld and random encounter system is based on the classic RPG mechanics found in games like Pokemon and Final Fantasy
 
 ## Core Gameplay Mechanics (Brief)
 
