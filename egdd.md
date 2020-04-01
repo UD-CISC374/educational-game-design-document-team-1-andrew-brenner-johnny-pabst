@@ -251,6 +251,8 @@ By playing through battles against different countries’ environmental issues, 
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+Storyboard mockups can be found in our repo: https://github.com/UD-CISC374/educational-game-design-document-team-1-andrew-brenner-johnny-pabst
+
 # Assets Needed
 
 ## Aesthetics
