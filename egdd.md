@@ -245,6 +245,7 @@ By playing through battles against different countries’ environmental issues, 
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
+The player wields the powers of conservation to save and restore the Earth from pollution. You must go from country to country and use your resources to fight against each environmental danger.
 
 
 ## Storyboarding
