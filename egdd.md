@@ -5,7 +5,7 @@ List methods in which deforestation issues may be combatted
 # Save the Trees
 # Johnny Pabst
 # Andrew Brenner
-
+ 
 ## Elevator Pitch
 
 Travel the world region to region where your help is most needed, battling against destructive forces in an effort to stop deforestation. Lay down your defenses in order to protect the environment against the enemy in this tower defense style strategy game. 
