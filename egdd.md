@@ -23,20 +23,20 @@ Travel the world region to region where your help is most needed, battling again
 
 *Give a very high-level description of any core gameplay mechanics*
 
-Scene 1 Mechanics (Overworld)
-- Move up/down/left/right on map using arrow keys
-- Collide into country badges to initiate battles
-- Open menu using the ‘P’ key
-Overworld Menu
-- Use arrows to move up and down list of countries
-- Scene 2 Mechanics (Battle Scene)
-- Use num pad to select available tower in the inventory bar
-- use arrow keys to move on grid-layout (where to place tower)
-- space bar to place tower on grid-layout
-- enemy moves right to left on plane
-- enemy collides with left “base” → overall health is damaged
-- enemy collides with “tower” → damages tower health
-- User plant/tower attacks enemy -> enemy takes damage (various types of plants with different attacks, ranges)
+- Scene 1 Mechanics (Overworld)
+  - Move up/down/left/right on map using arrow keys
+  - Collide into country badges to initiate battles
+  - Open menu using the ‘P’ key
+- Overworld Menu
+  - Use arrows to move up and down list of countries
+  - Scene 2 Mechanics (Battle Scene)
+  - Use num pad to select available tower in the inventory bar
+  - use arrow keys to move on grid-layout (where to place tower)
+  - space bar to place tower on grid-layout
+  - enemy moves right to left on plane
+  - enemy collides with left “base” → overall health is damaged
+  - enemy collides with “tower” → damages tower health
+  - User plant/tower attacks enemy -> enemy takes damage (various types of plants with different attacks, ranges)
 
 
 
@@ -52,7 +52,7 @@ Overworld Menu
 - 5th through 8th grade
 
 ## Target Contexts
-During environmental science units in middle school science courses
+- During environmental science units in middle school science courses
 
 ## Learning Objectives
 - Name Countries: Name countries with deforestation issues
@@ -65,10 +65,10 @@ During environmental science units in middle school science courses
 
 ## Assessment Measures
 - Pre/post test
- - Example questions: 
-  - Select the countries which are currently dealing with deforestation issues
-  - Rank countries according to the severity of their deforestation and habitat degradation issues
-  - List different forms of green energy
+  - Example questions: 
+    - Select the countries which are currently dealing with deforestation issues
+    - Rank countries according to the severity of their deforestation and habitat degradation issues
+    - List different forms of green energy
 
 # What sets this project apart?
 - The lessons are inherent in the gameplay mechanics. These learning objectives will be achieved by in-game visual and gameplay cues reinforced by reading small informational pieces.
@@ -87,26 +87,26 @@ This is a game for one person, they control the player in the overworld region t
 - Overworld: World map with overlay badges corresponding to a country’s environmental issue. The player may initiate a battle scene when colliding with a badge pinned on the map.
 - Overworld Menu: Can only be accessed in the overworld. 
 - Stats Pages: Displays a general progress bar and a list of all in-game countries.
- - A country can be in one of three modes: locked, unresolved, and resolved.
-  - locked countries will display required progress needed to battle
+  - A country can be in one of three modes: locked, unresolved, and resolved.
+    - locked countries will display required progress needed to battle
   - Selecting a country will toggle a pop-up containing real information about the country’s given environmental issue.
 - Battle Mode:
- - Player must defend the area and defeat the enemies by strategically placing Towers down on the battle grid
- - battle scene is laid out in a 6 x 4 grid with incoming enemies approaching right-to-left
+  - Player must defend the area and defeat the enemies by strategically placing Towers down on the battle grid
+  - battle scene is laid out in a 6 x 4 grid with incoming enemies approaching right-to-left
 - Upgrades Pop-up: Upon completing a battle, the player can select a tower to upgrade, strengthening their effectiveness against enemies. This will provide player progression as they battle stronger enemies.
 
 
 
 # Gameplay Objectives
 - Clear the Overworld Map:
- - Description: Progress through the game by completing objectives in each region one-by-one
- - Alignment: Player will be able to identify which countries are facing deforestation issues
+  - Description: Progress through the game by completing objectives in each region one-by-one
+  - Alignment: Player will be able to identify which countries are facing deforestation issues
 - Complete level:
- - Description: Defeat all approaching enemies when in battle 
- - Alignment: Player will be able to list ways that countries are combating environmental issues and they will also be able to compare severity of environmental issues between countries (based on level and difficulty of a given country’s battle sequence)
+  - Description: Defeat all approaching enemies when in battle 
+  - Alignment: Player will be able to list ways that countries are combating environmental issues and they will also be able to compare severity of environmental issues between countries (based on level and difficulty of a given country’s battle sequence)
 - Upgrade Resources
- - Description: Power-up resources to become more effective in battle
- - Alignment: Player will be able to list ways that countries are combating environmental issues
+  - Description: Power-up resources to become more effective in battle
+  - Alignment: Player will be able to list ways that countries are combating environmental issues
 
 # Procedures/Actions
 - Overworld Actions: Player can move around the world freely using the arrow keys. To initiate a battle, they must collide with a country emblem -- this will place the player into the battle scene. In the overworld, the player can also press the ‘P’ key to go into the pause menu. The player can navigate the list of countries using the arrow keys.
@@ -114,52 +114,52 @@ This is a game for one person, they control the player in the overworld region t
 
 # Rules
 - While in Overworld:
- - Player cannot enter a battle they have not unlocked yet (no collision)
- - Player enters battle when colliding with unlocked battle zone (badge over country)
+  - Player cannot enter a battle they have not unlocked yet (no collision)
+  - Player enters battle when colliding with unlocked battle zone (badge over country)
 - While in Battle Scene:
- - Player cannot place a tower where one already stands
- - Player cannot place a tower if they do not have enough resources
- - Resources accumulate steadily over-time
- - Production of resources is accelerated by placing particular towers (i.e. windmill)
- - If an enemy makes it all the way to the left side of plane, damage to overall health is taken
-  - When enough damage is taken, player loses battle and is sent back to overworld screen
- - Player can only upgrade one tower at a time
-  - This can only be done after a victorious battle
+  - Player cannot place a tower where one already stands
+  - Player cannot place a tower if they do not have enough resources
+  - Resources accumulate steadily over-time
+  - Production of resources is accelerated by placing particular towers (i.e. windmill)
+  - If an enemy makes it all the way to the left side of plane, damage to overall health is taken
+    - When enough damage is taken, player loses battle and is sent back to overworld screen
+  - Player can only upgrade one tower at a time
+    - This can only be done after a victorious battle
 
 
 # Objects/Entities
 - Overworld:
- - There is the main player on the surface of the overworld
- - There are the emblems for each country which, when collided with, give you the option to engage in battle
-  - Three types of emblems
-   - Locked
-    - Battle is currently unavailable, player must progress further to unlock
-    - Emblem is at low opacity
-   - Resolved
-    - Battle has been completed
-    - May replace previous emblem state with happy looking animated trees
-   - Unresolved
-    - Emblem is in center of country
-    - The player is able to collide with the emblem to initiate the battle
+  - There is the main player on the surface of the overworld
+  - There are the emblems for each country which, when collided with, give you the option to engage in battle
+    - Three types of emblems
+      - Locked
+        - Battle is currently unavailable, player must progress further to unlock
+        - Emblem is at low opacity
+      - Resolved
+        - Battle has been completed
+        - May replace previous emblem state with happy looking animated trees
+      - Unresolved
+       - Emblem is in center of country
+       - The player is able to collide with the emblem to initiate the battle
 - Battle Scene
- - There are enemies that move from the right side to the left side
-  - These may consist of animated bulldozers, lumberjacks, etc.
- - There are three types of towers that you can place on the battle grid:
-  - Energy generating Towers (speed up resource accumulation)
-   - Animated windmills and solar panels
-  - Attacking Towers that shoot projectiles at enemies
-   - Animated Trees and plants projecting seeds at enemies
-  - Blockade Towers that are temporary barriers
-   - May or may not damage the enemy upon impact
-   - Animated thorn bushes or piles of rocks
- - There is a hot bar with the list of accessible towers
- - There is an indicator on the selected grid box (used for placing)
- - There is an base on the left-hand side (that you must protect)
-  - Environmentally friendly appearance
- - “Base” spawning enemies
-  - Should look grim, perhaps just a smog cloud
- - There is an overall health bar at the top of the screen
- - There is a number indicating how many resources / how much energy the user currently has
+  - There are enemies that move from the right side to the left side
+    - These may consist of animated bulldozers, lumberjacks, etc.
+  - There are three types of towers that you can place on the battle grid:
+    - Energy generating Towers (speed up resource accumulation)
+      - Animated windmills and solar panels
+    - Attacking Towers that shoot projectiles at enemies
+      - Animated Trees and plants projecting seeds at enemies
+    - Blockade Towers that are temporary barriers
+      - May or may not damage the enemy upon impact
+      - Animated thorn bushes or piles of rocks
+  - There is a hot bar with the list of accessible towers
+  - There is an indicator on the selected grid box (used for placing)
+  - There is an base on the left-hand side (that you must protect)
+    - Environmentally friendly appearance
+  - “Base” spawning enemies
+    - Should look grim, perhaps just a smog cloud
+  - There is an overall health bar at the top of the screen
+  - There is a number indicating how many resources / how much energy the user currently has
 
 
 ## Core Gameplay Mechanics (Detailed)
@@ -184,11 +184,11 @@ Battle Mechanics:
 
 - After winning each battle, the defeated country’s appearance will change on the overworld -- that region will go from displaying trees under distress, perhaps under attack, to being filled with green happy trees. By the time you complete the game, the overworld will be restored.
 - There will be sound effects for each type of collision.
- - Grunts and motor sounds for approaching enemies
- - Axe chopping sounds for lumberjacks when attacking
- - Power-up sound when producing green energy
- - Pleasant / fun hit sound when plants project seeds at enemies
- - There will be a fanfare jingle when you defeat an enemy.
+  - Grunts and motor sounds for approaching enemies
+  - Axe chopping sounds for lumberjacks when attacking
+  - Power-up sound when producing green energy
+  - Pleasant / fun hit sound when plants project seeds at enemies
+  - There will be a fanfare jingle when you defeat an enemy.
 
 *Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
@@ -245,33 +245,33 @@ Storyboard images can be found in our repo: https://github.com/UD-CISC374/educat
 
 ## Graphical
 - Characters List:
- - Player: will have a retro style look, like the player in older Pokemon games
- - Enemies: will consist of bulldozers, lumberjacks, etc.
+  - Player: will have a retro style look, like the player in older Pokemon games
+  - Enemies: will consist of bulldozers, lumberjacks, etc.
 - Towers
- - Attacking Towers
-  - Trees and Plants projecting seeds at enemies
- - Energy Production Towers
-  - Windmills & solar panels
- - Blockade Towers
-  - Thorn bushes, piles of rocks, etc.
+  - Attacking Towers
+    - Trees and Plants projecting seeds at enemies
+  - Energy Production Towers
+    - Windmills & solar panels
+  - Blockade Towers
+    - Thorn bushes, piles of rocks, etc.
 - Textures:
- - N/A
+  - N/A
 - Environment Art/Textures:
-- Overworld: Each country will look dark and dreary until you defeat them in battle, where they will then become green and healthy looking.
+  - Overworld: Each country will look dark and dreary until you defeat them in battle, where they will then become green and healthy looking.
 - Battle Scene: Base being protected on the left will look environmentally friendly (line of trees with animals). Enemy base will be a thick layer of dark smog. Middle ground will be dirt.
 
 
 ## Audio
 - Music List (Ambient sound)
- - Overworld map: Retro pokemon style music will play
+  - Overworld map: Retro pokemon style music will play
 - Sounds List (SFX)
- - Select upgrade: coin sound from Mario 
- - There will be sound effects for each type of collision.
-  - Axe chopping sounds for lumberjacks when attacking
-  - Power-up sound when producing green energy
-  - Pleasant / fun hit sound when plants project seeds at enemies
-  - Grunts and motor sounds for approaching enemies
- - There will be a fanfare jingle when you defeat an enemy.
+  - Select upgrade: coin sound from Mario 
+  - There will be sound effects for each type of collision.
+    - Axe chopping sounds for lumberjacks when attacking
+    - Power-up sound when producing green energy
+    - Pleasant / fun hit sound when plants project seeds at enemies
+    - Grunts and motor sounds for approaching enemies
+  - There will be a fanfare jingle when you defeat an enemy.
 
 
 
