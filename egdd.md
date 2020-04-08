@@ -83,7 +83,9 @@ This is a game for one person, they control the player in the overworld region t
 
 ## Player Modes
 - Title Screen: Title with start button which initiates the tutorial
-- Tutorial Mode: Player is dropped into the overworld area with pop-up messages teaching the player how to move and interact with the world. There is then a transition to a tutorial battle sequence which explains the battle mechanics. The player is then free to roam the overworld freely.
+- Tutorial Mode: Player is dropped into the overworld area where they will be greeted by a monkey character. The monkey will explain the dangers that deforestation is causing and explain the overall goal of the game (stopping the bulldozers, raising awareness, etc.).
+ - EXAMPLE DIALOGUE: “Hey! Finally a human is on our side! We need you to raise awareness in order to save our homes. By raising enough support, you can influence countries to pass laws to help save the trees!”
+ - Then, pop-up messages (from the monkey) will begin teaching the player how to move and interact with the world. There is then a transition to a tutorial battle sequence which explains the battle mechanics. The player is then free to roam the overworld freely.
 - Overworld: World map with overlay badges corresponding to a country’s environmental issue. The player may initiate a battle scene when colliding with a badge pinned on the map.
 - Overworld Menu: Can only be accessed in the overworld. 
 - Stats Pages: Displays a general progress bar and a list of all in-game countries.
