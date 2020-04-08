@@ -29,7 +29,7 @@ Travel the world region to region where your help is most needed, battling again
   - Open menu using the ‘P’ key
 - Overworld Menu
   - Use arrows to move up and down list of countries
-  - Scene 2 Mechanics (Battle Scene)
+- Scene 2 Mechanics (Battle Scene)
   - Use num pad to select available tower in the inventory bar
   - use arrow keys to move on grid-layout (where to place tower)
   - space bar to place tower on grid-layout
