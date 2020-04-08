@@ -93,9 +93,9 @@ This is a game for one person, they control the player in the overworld region t
   - Then, pop-up messages (from the monkey) will begin teaching the player how to move and interact with the world. There is then a transition to a tutorial battle sequence which explains the battle mechanics. The player is then free to roam the overworld freely.
 - Overworld: World map with overlay badges corresponding to a country’s environmental issue. The player may initiate a battle scene when colliding with a badge pinned on the map and pressing the spacebar key when prompted.
 - Overworld Menu: Can only be accessed in the overworld. 
-- Stats Pages: Displays a general progress bar and a list of all in-game countries.
+ - Stats Pages: Displays the current number of supporters and a list of all in-game countries.
   - A country can be in one of three modes: locked, unresolved, and resolved.
-    - locked countries will display required progress needed to battle
+   - locked countries will display the required number of supporters needed to battle
   - Selecting a country will toggle a pop-up containing real information about the country’s given environmental issue.
 - Battle Mode:
   - Player must defend the area and defeat the enemies by strategically placing Towers down on the battle grid
@@ -122,7 +122,8 @@ This is a game for one person, they control the player in the overworld region t
 # Rules
 - While in Overworld:
   - Player cannot enter a battle they have not unlocked yet (no collision)
-  - Player enters battle when colliding with unlocked battle zone (badge over country)
+  - Levels are unlocked by gaining the required number of supporters
+  - Player enters battle when colliding with unlocked battle zone and pressing spacebar to confirm (badge over country)
 - While in Battle Scene:
   - Player cannot place a tower where one already stands
   - Player cannot place a tower if they do not have enough resources
