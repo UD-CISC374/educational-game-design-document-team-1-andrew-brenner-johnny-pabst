@@ -69,6 +69,9 @@ Travel the world region to region where your help is most needed, battling again
     - Select the countries which are currently dealing with deforestation issues
     - Rank countries according to the severity of their deforestation and habitat degradation issues
     - List different forms of green energy
+    - Select the methods which combat deforestation
+      - I.e. Planting trees, protesting, policy change
+
 
 # What sets this project apart?
 - The lessons are inherent in the gameplay mechanics. These learning objectives will be achieved by in-game visual and gameplay cues reinforced by reading small informational pieces.
