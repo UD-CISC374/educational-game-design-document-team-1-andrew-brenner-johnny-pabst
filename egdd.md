@@ -25,7 +25,8 @@ Travel the world region to region where your help is most needed, battling again
 
 - Scene 1 Mechanics (Overworld)
   - Move up/down/left/right on map using arrow keys
-  - Collide into country badges to initiate battles
+  - Collide into country badges to initiate battle pop-up
+  - Press spacebar key to confirm 
   - Open menu using the ‘P’ key
 - Overworld Menu
   - Use arrows to move up and down list of countries
@@ -86,7 +87,7 @@ This is a game for one person, they control the player in the overworld region t
 - Tutorial Mode: Player is dropped into the overworld area where they will be greeted by a monkey character. The monkey will explain the dangers that deforestation is causing and explain the overall goal of the game (stopping the bulldozers, raising awareness, etc.).
   - EXAMPLE DIALOGUE: “Hey! Finally a human is on our side! We need you to raise awareness in order to save our homes. By raising enough support, you can influence countries to pass laws to help save the trees!”
   - Then, pop-up messages (from the monkey) will begin teaching the player how to move and interact with the world. There is then a transition to a tutorial battle sequence which explains the battle mechanics. The player is then free to roam the overworld freely.
-- Overworld: World map with overlay badges corresponding to a country’s environmental issue. The player may initiate a battle scene when colliding with a badge pinned on the map.
+- Overworld: World map with overlay badges corresponding to a country’s environmental issue. The player may initiate a battle scene when colliding with a badge pinned on the map and pressing the spacebar key when prompted.
 - Overworld Menu: Can only be accessed in the overworld. 
 - Stats Pages: Displays a general progress bar and a list of all in-game countries.
   - A country can be in one of three modes: locked, unresolved, and resolved.
@@ -111,7 +112,7 @@ This is a game for one person, they control the player in the overworld region t
   - Alignment: Player will be able to list ways that countries are combating environmental issues
 
 # Procedures/Actions
-- Overworld Actions: Player can move around the world freely using the arrow keys. To initiate a battle, they must collide with a country emblem -- this will place the player into the battle scene. In the overworld, the player can also press the ‘P’ key to go into the pause menu. The player can navigate the list of countries using the arrow keys.
+- Overworld Actions: Player can move around the world freely using the arrow keys. To initiate a battle, they must collide with a country emblem and confirm with spacebar -- this will place the player into the battle scene. In the overworld, the player can also press the ‘P’ key to go into the pause menu. The player can navigate the list of countries using the arrow keys.
 - Battle Actions: Player can use numpad to highlight a given resource. You can select the box on the grid with the arrow keys, and spacebar locks in your placement. You must plan and place your resources strategically to protect the enemies from reaching the base on the left hand side (enemies approach from right).
 
 # Rules
