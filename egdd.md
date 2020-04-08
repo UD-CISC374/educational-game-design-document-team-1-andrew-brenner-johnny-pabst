@@ -105,14 +105,14 @@ This is a game for one person, they control the player in the overworld region t
 
 # Gameplay Objectives
 - Clear the Overworld Map:
-  - Description: Progress through the game by completing objectives in each region one-by-one
-  - Alignment: Player will be able to identify which countries are facing deforestation issues
+ - Description: Progress through the game by completing objectives in each region one-by-one resulting in a raise of awareness
+ - Alignment: The player will be able to identify which countries are facing deforestation issues. Also, the player will see that much support is needed in order to change policy and pass laws
 - Complete level:
-  - Description: Defeat all approaching enemies when in battle 
-  - Alignment: Player will be able to list ways that countries are combating environmental issues and they will also be able to compare severity of environmental issues between countries (based on level and difficulty of a given country’s battle sequence)
+ - Description: Defeat all approaching enemies when in battle 
+ - Alignment: The player will be able to categorize protesting and replanting as crucial methods in fighting deforestation and be able to compare severity of environmental issues between countries (based on level and difficulty of a given country’s battle sequence). 
 - Upgrade Resources
-  - Description: Power-up resources to become more effective in battle
-  - Alignment: Player will be able to list ways that countries are combating environmental issues
+ - Description: By gaining more supporters through victorious protests, power-up resources in order to become more effective in battle
+ - Alignment: Protest efforts become strengthened as support and awareness for the issue grows.
 
 # Procedures/Actions
 - Overworld Actions: Player can move around the world freely using the arrow keys. To initiate a battle, they must collide with a country emblem -- this will place the player into the battle scene. In the overworld, the player can also press the ‘P’ key to go into the pause menu. The player can navigate the list of countries using the arrow keys.
