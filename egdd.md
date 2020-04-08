@@ -76,6 +76,7 @@ Travel the world region to region where your help is most needed, battling again
 # What sets this project apart?
 - The lessons are inherent in the gameplay mechanics. These learning objectives will be achieved by in-game visual and gameplay cues reinforced by reading small informational pieces.
 - Player’s can get a sense of accomplishment from combating real-world environmental issues
+- Player raises awareness around the world on real-world issues
 - Learning objects will inform the user on methods of dealing with current environmental issues
 - The player obtains a sense of progress by defeating pressing issues and cleaning up the earth. The player will visibly see on the map that each region is becoming healthier as they progress.
 
